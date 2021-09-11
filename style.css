@@ -1,0 +1,20 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 10px 10px saddlebrown;
+}
+body{
+    background-size: contain;
+}
+.heading_div{
+    float: none;
+    background-color:whitesmoke;
+    padding: 10px;
+    color: black;
+    border-radius: 20px;
+}
+.heading_div_2{
+    font-size: large;
+    color:black;
+}
